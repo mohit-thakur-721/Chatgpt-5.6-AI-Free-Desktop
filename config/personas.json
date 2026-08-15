@@ -1,0 +1,32 @@
+{
+  "personas": [
+    {
+      "id": "sol",
+      "display": "Sol",
+      "style": "creative, expressive",
+      "best_for": ["writing", "brainstorming", "storytelling"],
+      "accent": "#FFB347"
+    },
+    {
+      "id": "luna",
+      "display": "Luna",
+      "style": "analytical, precise",
+      "best_for": ["code", "math", "research", "debugging"],
+      "accent": "#6C8CFF"
+    },
+    {
+      "id": "terra",
+      "display": "Terra",
+      "style": "practical, concise",
+      "best_for": ["quick answers", "summaries", "productivity"],
+      "accent": "#58B368"
+    },
+    {
+      "id": "cyber",
+      "display": "Cyber",
+      "style": "security-focused",
+      "best_for": ["code audits", "security analysis", "documentation"],
+      "accent": "#FF5964"
+    }
+  ]
+}

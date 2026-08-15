@@ -1,0 +1,27 @@
+{
+  "model": {
+    "name": "gpt-5.6",
+    "context_window": 200000,
+    "streaming": true
+  },
+  "persona": {
+    "default": "sol",
+    "hotkeys": {
+      "sol": "Ctrl+Shift+S",
+      "luna": "Ctrl+Shift+L",
+      "terra": "Ctrl+Shift+T",
+      "cyber": "Ctrl+Shift+C"
+    }
+  },
+  "features": {
+    "voice_chat": true,
+    "code_interpreter": true,
+    "dalle_images": true,
+    "plugins": ["web", "calculator", "files", "weather"]
+  },
+  "ui": {
+    "theme": "dark",
+    "per_persona_accents": true,
+    "export_formats": ["markdown", "json", "html"]
+  }
+}

@@ -1,0 +1,28 @@
+ChatGPT 5.6 - Persona Guide
+===========================
+
+chatgpt 5.6 sol
+   creative mode. writing, brainstorming, storytelling.
+   hotkey Ctrl+Shift+S.
+
+chatgpt luna
+   analytical mode. code, math, research, debugging.
+   hotkey Ctrl+Shift+L.
+
+chatgpt 5.6 terra
+   practical mode. quick answers, summaries, productivity.
+   hotkey Ctrl+Shift+T.
+
+chatgpt 5.6 cyber
+   security mode added in v5.6.3. code audits, threat modeling,
+   security documentation. the chatgpt cyber persona is the
+   fastest-growing search trend in the 5.6 family.
+   hotkey Ctrl+Shift+C.
+
+NOTES
+- personas swap system prompts - conversation history carries over
+- chatgpt 5.5 vs 5.6: personas, 200K context and faster streaming
+  are the headline changes
+- chatgpt 5.6 vs fable 5: 5.6 wins on voice, code interpreter and
+  image generation; fable 5 targets long-form narrative
+- chatgpt 5.6 pro features (200K context, branching) are included
